@@ -406,10 +406,10 @@
   {
     "name": "Aniyomi: Anime4up",
     "pkg": "eu.kanade.tachiyomi.animeextension.ar.anime4up",
-    "apk": "aniyomi-ar.anime4up-v14.58.apk",
+    "apk": "aniyomi-ar.anime4up-v14.59.apk",
     "lang": "ar",
-    "code": 58,
-    "version": "14.58",
+    "code": 59,
+    "version": "14.59",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -418,7 +418,7 @@
         "name": "Anime4Up",
         "lang": "ar",
         "id": "528782559387795213",
-        "baseUrl": "https://anime4up.cam",
+        "baseUrl": "https://anime4up.rest",
         "versionId": 1
       }
     ]
@@ -1406,10 +1406,10 @@
   {
     "name": "Aniyomi: DonghuaStream",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.donghuastream",
-    "apk": "aniyomi-en.donghuastream-v14.8.apk",
+    "apk": "aniyomi-en.donghuastream-v14.9.apk",
     "lang": "en",
-    "code": 8,
-    "version": "14.8",
+    "code": 9,
+    "version": "14.9",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -1418,7 +1418,7 @@
         "name": "DonghuaStream",
         "lang": "en",
         "id": "5750955808412743706",
-        "baseUrl": "https://donghuastream.co.in",
+        "baseUrl": "https://donghuastream.org",
         "versionId": 1
       }
     ]
@@ -1626,10 +1626,10 @@
   {
     "name": "Aniyomi: Kaido",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.kaido",
-    "apk": "aniyomi-en.kaido-v14.9.apk",
+    "apk": "aniyomi-en.kaido-v14.10.apk",
     "lang": "en",
-    "code": 9,
-    "version": "14.9",
+    "code": 10,
+    "version": "14.10",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -2166,10 +2166,10 @@
   {
     "name": "Aniyomi: HiAnime",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.zoro",
-    "apk": "aniyomi-en.zoro-v14.44.apk",
+    "apk": "aniyomi-en.zoro-v14.47.apk",
     "lang": "en",
-    "code": 44,
-    "version": "14.44",
+    "code": 47,
+    "version": "14.47",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -2653,10 +2653,10 @@
   {
     "name": "Aniyomi: HomeCine",
     "pkg": "eu.kanade.tachiyomi.animeextension.es.homecine",
-    "apk": "aniyomi-es.homecine-v14.1.apk",
+    "apk": "aniyomi-es.homecine-v14.2.apk",
     "lang": "es",
-    "code": 1,
-    "version": "14.1",
+    "code": 2,
+    "version": "14.2",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -2665,7 +2665,7 @@
         "name": "HomeCine",
         "lang": "es",
         "id": "4683784015054845419",
-        "baseUrl": "https://www3.homecine.tv",
+        "baseUrl": "https://homecine.cc",
         "versionId": 1
       }
     ]
@@ -2793,10 +2793,10 @@
   {
     "name": "Aniyomi: MetroSeries",
     "pkg": "eu.kanade.tachiyomi.animeextension.es.metroseries",
-    "apk": "aniyomi-es.metroseries-v14.11.apk",
+    "apk": "aniyomi-es.metroseries-v14.12.apk",
     "lang": "es",
-    "code": 11,
-    "version": "14.11",
+    "code": 12,
+    "version": "14.12",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -2805,7 +2805,7 @@
         "name": "MetroSeries",
         "lang": "es",
         "id": "302544302370133084",
-        "baseUrl": "https://metroseries.net",
+        "baseUrl": "https://www3.seriesmetro.net",
         "versionId": 1
       }
     ]
@@ -2900,10 +2900,10 @@
   {
     "name": "Aniyomi: PelisForte",
     "pkg": "eu.kanade.tachiyomi.animeextension.es.pelisforte",
-    "apk": "aniyomi-es.pelisforte-v14.16.apk",
+    "apk": "aniyomi-es.pelisforte-v14.17.apk",
     "lang": "es",
-    "code": 16,
-    "version": "14.16",
+    "code": 17,
+    "version": "14.17",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -3901,10 +3901,10 @@
   {
     "name": "Aniyomi: Bakashi",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.animesgratis",
-    "apk": "aniyomi-pt.animesgratis-v14.14.apk",
+    "apk": "aniyomi-pt.animesgratis-v14.15.apk",
     "lang": "pt-BR",
-    "code": 14,
-    "version": "14.14",
+    "code": 15,
+    "version": "14.15",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -3913,7 +3913,7 @@
         "name": "Bakashi",
         "lang": "pt-BR",
         "id": "2969482460524685571",
-        "baseUrl": "https://bakashi.tv",
+        "baseUrl": "https://bakashi.net",
         "versionId": 1
       }
     ]
